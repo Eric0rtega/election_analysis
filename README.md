@@ -36,7 +36,7 @@ The analysis of the election shows that:
   
  ## Results
  
- ![Results in the terminal](election_analysis/Screen%20Shot%202020-11-03%20at%204.11.00%20PM.png)
+ ![Results in the terminal](https://github.com/Eric0rtega/election_analysis/blob/main/Screen%20Shot%202020-11-03%20at%204.11.00%20PM.png)
  
 ## Challenge Overview
  The challenge really helped solidify my understanding of the code I was writing and what it did. The syntax was new and took some getting used to but eventually it started to feel natural. The small pieces started to come together. I ran into errors and I persevered, I solved them and got it done.
